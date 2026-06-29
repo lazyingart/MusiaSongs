@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MusiaSongs</title>
+  <meta name="description" content="Public song audio assets for Musia and Fun Lazying Art.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <p class="eyebrow">Fun Lazying Art</p>
+      <h1>MusiaSongs</h1>
+      <p class="lede">Public audio assets for Musia songs, localized vocals, and music demos.</p>
+      <a class="primary-link" href="https://fun.lazying.art">Open Fun Lazying Art</a>
+    </header>
+
+    <section class="catalog" aria-labelledby="catalog-title">
+      <div class="catalog-head">
+        <div>
+          <p class="eyebrow">Audio</p>
+          <h2 id="catalog-title">Tracks</h2>
+        </div>
+        <input id="filter" type="search" placeholder="Search tracks" autocomplete="off">
+      </div>
+      <div id="tracks" class="tracks" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <script>
+    const tracksEl = document.getElementById("tracks");
+    const filterEl = document.getElementById("filter");
+    let tracks = [];
+
+    function niceTitle(name) {
+      return name
+        .replace(/\\.mp3$/i, "")
+        .replace(/-/g, " ")
+        .replace(/\\b\\w/g, (m) => m.toUpperCase());
+    }
+
+    function render() {
+      const query = filterEl.value.trim().toLowerCase();
+      const visible = tracks.filter((track) => {
+        return !query || [track.name, track.title, track.url].join(" ").toLowerCase().includes(query);
+      });
+      tracksEl.innerHTML = visible.map((track) => `
+        <article class="track">
+          <div class="track-title">
+            <h3>${track.title}</h3>
+            <a href="${track.url}">MP3</a>
+          </div>
+          <audio controls preload="metadata" src="${track.url}"></audio>
+          <p>${track.name} · ${track.sizeLabel}</p>
+        </article>
+      `).join("") || `<p class="empty">No tracks found.</p>`;
+    }
+
+    fetch("audio.json")
+      .then((response) => response.json())
+      .then((data) => {
+        tracks = (data.tracks || []).map((track) => ({
+          ...track,
+          title: track.title || niceTitle(track.name)
+        }));
+        render();
+      })
+      .catch((error) => {
+        tracksEl.innerHTML = `<p class="empty">Could not load audio.json: ${error.message}</p>`;
+      });
+
+    filterEl.addEventListener("input", render);
+  </script>
+</body>
+</html>

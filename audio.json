@@ -1,0 +1,175 @@
+{
+  "schema": "art.lazying.musia-songs.v1",
+  "generatedAt": "2026-06-29T03:17:34.621Z",
+  "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
+  "tracks": [
+    {
+      "name": "aya-chan-hikari-ame-en.mp3",
+      "title": "Aya Chan Hikari Ame En",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/aya-chan-hikari-ame-en.mp3",
+      "bytes": 2178093,
+      "sizeLabel": "2.1 MB"
+    },
+    {
+      "name": "aya-chan-hikari-ame-ja.mp3",
+      "title": "Aya Chan Hikari Ame Ja",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/aya-chan-hikari-ame-ja.mp3",
+      "bytes": 1633581,
+      "sizeLabel": "1.6 MB"
+    },
+    {
+      "name": "aya-chan-hikari-ame-zh-Hans.mp3",
+      "title": "Aya Chan Hikari Ame Zh Hans",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/aya-chan-hikari-ame-zh-Hans.mp3",
+      "bytes": 2178093,
+      "sizeLabel": "2.1 MB"
+    },
+    {
+      "name": "mars-red-sky-en.mp3",
+      "title": "Mars Red Sky En",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/mars-red-sky-en.mp3",
+      "bytes": 1969389,
+      "sizeLabel": "1.9 MB"
+    },
+    {
+      "name": "mars-red-sky-ja.mp3",
+      "title": "Mars Red Sky Ja",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/mars-red-sky-ja.mp3",
+      "bytes": 1969389,
+      "sizeLabel": "1.9 MB"
+    },
+    {
+      "name": "mars-red-sky-yue-Hant.mp3",
+      "title": "Mars Red Sky Yue Hant",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/mars-red-sky-yue-Hant.mp3",
+      "bytes": 1862309,
+      "sizeLabel": "1.8 MB"
+    },
+    {
+      "name": "mars-red-sky-zh.mp3",
+      "title": "Mars Red Sky Zh",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/mars-red-sky-zh.mp3",
+      "bytes": 1969389,
+      "sizeLabel": "1.9 MB"
+    },
+    {
+      "name": "one-sky-three-lights-mixed.mp3",
+      "title": "One Sky Three Lights Mixed",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/one-sky-three-lights-mixed.mp3",
+      "bytes": 1537389,
+      "sizeLabel": "1.5 MB"
+    },
+    {
+      "name": "one-sky-three-lights-yue-Hant.mp3",
+      "title": "One Sky Three Lights Yue Hant",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/one-sky-three-lights-yue-Hant.mp3",
+      "bytes": 1404821,
+      "sizeLabel": "1.3 MB"
+    },
+    {
+      "name": "rain-day-bilingual-verse-vocal.mp3",
+      "title": "Rain Day Bilingual Verse Vocal",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-bilingual-verse-vocal.mp3",
+      "bytes": 369645,
+      "sizeLabel": "361 KB"
+    },
+    {
+      "name": "rain-day-bilingual-verse.mp3",
+      "title": "Rain Day Bilingual Verse",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-bilingual-verse.mp3",
+      "bytes": 369645,
+      "sizeLabel": "361 KB"
+    },
+    {
+      "name": "rain-day-full-song-en.mp3",
+      "title": "Rain Day Full Song En",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-full-song-en.mp3",
+      "bytes": 1873197,
+      "sizeLabel": "1.8 MB"
+    },
+    {
+      "name": "rain-day-full-song-ja.mp3",
+      "title": "Rain Day Full Song Ja",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-full-song-ja.mp3",
+      "bytes": 1873197,
+      "sizeLabel": "1.8 MB"
+    },
+    {
+      "name": "rain-day-full-song-yue-Hant.mp3",
+      "title": "Rain Day Full Song Yue Hant",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-full-song-yue-Hant.mp3",
+      "bytes": 1624296,
+      "sizeLabel": "1.5 MB"
+    },
+    {
+      "name": "rain-day-full-song-zh.mp3",
+      "title": "Rain Day Full Song Zh",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-full-song-zh.mp3",
+      "bytes": 1873197,
+      "sizeLabel": "1.8 MB"
+    },
+    {
+      "name": "rain-day-short-verse-en.mp3",
+      "title": "Rain Day Short Verse En",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-short-verse-en.mp3",
+      "bytes": 319245,
+      "sizeLabel": "312 KB"
+    },
+    {
+      "name": "rain-day-short-verse-ja.mp3",
+      "title": "Rain Day Short Verse Ja",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-short-verse-ja.mp3",
+      "bytes": 865197,
+      "sizeLabel": "845 KB"
+    },
+    {
+      "name": "rain-day-trilingual-melody-guide.mp3",
+      "title": "Rain Day Trilingual Melody Guide",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-trilingual-melody-guide.mp3",
+      "bytes": 369645,
+      "sizeLabel": "361 KB"
+    },
+    {
+      "name": "take-care-of-yourself-en.mp3",
+      "title": "Take Care Of Yourself En",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/take-care-of-yourself-en.mp3",
+      "bytes": 1237369,
+      "sizeLabel": "1.2 MB"
+    },
+    {
+      "name": "take-care-of-yourself-hope-en.mp3",
+      "title": "Take Care Of Yourself Hope En",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/take-care-of-yourself-hope-en.mp3",
+      "bytes": 1825389,
+      "sizeLabel": "1.7 MB"
+    },
+    {
+      "name": "take-care-of-yourself-hope-ja.mp3",
+      "title": "Take Care Of Yourself Hope Ja",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/take-care-of-yourself-hope-ja.mp3",
+      "bytes": 1825389,
+      "sizeLabel": "1.7 MB"
+    },
+    {
+      "name": "take-care-of-yourself-hope-zh-Hans.mp3",
+      "title": "Take Care Of Yourself Hope Zh Hans",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/take-care-of-yourself-hope-zh-Hans.mp3",
+      "bytes": 1825389,
+      "sizeLabel": "1.7 MB"
+    },
+    {
+      "name": "take-care-of-yourself-yue-Hant.mp3",
+      "title": "Take Care Of Yourself Yue Hant",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/take-care-of-yourself-yue-Hant.mp3",
+      "bytes": 1239630,
+      "sizeLabel": "1.2 MB"
+    },
+    {
+      "name": "take-care-of-yourself-zh-Hans.mp3",
+      "title": "Take Care Of Yourself Zh Hans",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/take-care-of-yourself-zh-Hans.mp3",
+      "bytes": 1285252,
+      "sizeLabel": "1.2 MB"
+    }
+  ]
+}
