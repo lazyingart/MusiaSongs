@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-06-29T03:31:15.031Z",
+  "generatedAt": "2026-06-29T11:56:18.133Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -170,6 +170,27 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/take-care-of-yourself-zh-Hans.mp3",
       "bytes": 1285252,
       "sizeLabel": "1.2 MB"
+    },
+    {
+      "name": "xiao-xiao-zhu-en.mp3",
+      "title": "Xiao Xiao Zhu En",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/xiao-xiao-zhu-en.mp3",
+      "bytes": 2113389,
+      "sizeLabel": "2.0 MB"
+    },
+    {
+      "name": "xiao-xiao-zhu-ja.mp3",
+      "title": "Xiao Xiao Zhu Ja",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/xiao-xiao-zhu-ja.mp3",
+      "bytes": 1969389,
+      "sizeLabel": "1.9 MB"
+    },
+    {
+      "name": "xiao-xiao-zhu-zh-Hans.mp3",
+      "title": "Xiao Xiao Zhu Zh Hans",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/xiao-xiao-zhu-zh-Hans.mp3",
+      "bytes": 2209581,
+      "sizeLabel": "2.1 MB"
     }
   ]
 }
