@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use MusiaSongs, please cite this repository."
+type: software
+title: "MusiaSongs: Public Audio Assets for Musia and Fun Lazying Art"
+version: 0.1.0
+date-released: 2026-06-29
+abstract: "Public GitHub Pages audio assets for Musia songs, localized vocals, and Fun Lazying Art media playback."
+authors:
+  - family-names: Chen
+    given-names: Lachlan
+    alias: lachlanchen
+repository-code: "https://github.com/lazyingart/MusiaSongs"
+url: "https://lazyingart.github.io/MusiaSongs"
+keywords:
+  - Musia
+  - Fun Lazying Art
+  - AI music
+  - song localization
+  - audio assets
+  - GitHub Pages
