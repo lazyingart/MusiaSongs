@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-06-30T12:20:04.603Z",
+  "generatedAt": "2026-06-30T13:10:12.394Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -198,6 +198,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/yun-hai-zhi-lian-en.mp3",
       "bytes": 1537389,
       "sizeLabel": "1.5 MB"
+    },
+    {
+      "name": "yun-hai-zhi-lian-haifeng-duange-zh-Hans-ace-20260630.mp3",
+      "title": "Yun Hai Zhi Lian Haifeng Duange Zh Hans Ace 20260630",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/yun-hai-zhi-lian-haifeng-duange-zh-Hans-ace-20260630.mp3",
+      "bytes": 2161197,
+      "sizeLabel": "2.1 MB"
     },
     {
       "name": "yun-hai-zhi-lian-ja.mp3",
