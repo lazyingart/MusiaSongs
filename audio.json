@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-06-30T13:10:12.394Z",
+  "generatedAt": "2026-06-30T13:29:58.222Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -240,6 +240,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/yun-hai-zhi-lian-main-zh-Hans-20260630.mp3",
       "bytes": 3841297,
       "sizeLabel": "3.7 MB"
+    },
+    {
+      "name": "yun-hai-zhi-lian-yunhai-changge-diffrhythm-full-285-20260630.mp3",
+      "title": "Yun Hai Zhi Lian Yunhai Changge Diffrhythm Full 285 20260630",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/yun-hai-zhi-lian-yunhai-changge-diffrhythm-full-285-20260630.mp3",
+      "bytes": 6840621,
+      "sizeLabel": "6.5 MB"
     },
     {
       "name": "yun-hai-zhi-lian-zh-Hans.mp3",
