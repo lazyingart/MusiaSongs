@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-06-30T09:38:56.705Z",
+  "generatedAt": "2026-06-30T12:14:01.268Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -207,11 +207,32 @@
       "sizeLabel": "1.5 MB"
     },
     {
+      "name": "yun-hai-zhi-lian-legacy-en.mp3",
+      "title": "Yun Hai Zhi Lian Legacy En",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/yun-hai-zhi-lian-legacy-en.mp3",
+      "bytes": 1537389,
+      "sizeLabel": "1.5 MB"
+    },
+    {
+      "name": "yun-hai-zhi-lian-legacy-ja.mp3",
+      "title": "Yun Hai Zhi Lian Legacy Ja",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/yun-hai-zhi-lian-legacy-ja.mp3",
+      "bytes": 1537389,
+      "sizeLabel": "1.5 MB"
+    },
+    {
+      "name": "yun-hai-zhi-lian-legacy-zh-Hans.mp3",
+      "title": "Yun Hai Zhi Lian Legacy Zh Hans",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/yun-hai-zhi-lian-legacy-zh-Hans.mp3",
+      "bytes": 1537389,
+      "sizeLabel": "1.5 MB"
+    },
+    {
       "name": "yun-hai-zhi-lian-zh-Hans.mp3",
       "title": "Yun Hai Zhi Lian Zh Hans",
       "url": "https://lazyingart.github.io/MusiaSongs/audio/yun-hai-zhi-lian-zh-Hans.mp3",
-      "bytes": 1537389,
-      "sizeLabel": "1.5 MB"
+      "bytes": 3841297,
+      "sizeLabel": "3.7 MB"
     }
   ]
 }
