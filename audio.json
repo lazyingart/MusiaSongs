@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-06-30T17:28:03.995Z",
+  "generatedAt": "2026-06-30T18:34:48.221Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -191,6 +191,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/take-care-of-yourself-zh-Hans.mp3",
       "bytes": 1285252,
       "sizeLabel": "1.2 MB"
+    },
+    {
+      "name": "xia-ke-xing-original-poem-zh-Hans-ace-20260701.mp3",
+      "title": "Xia Ke Xing Original Poem Zh Hans Ace 20260701",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/xia-ke-xing-original-poem-zh-Hans-ace-20260701.mp3",
+      "bytes": 4321965,
+      "sizeLabel": "4.1 MB"
     },
     {
       "name": "xia-ke-xing-zh-Hans-ace-20260630.mp3",
