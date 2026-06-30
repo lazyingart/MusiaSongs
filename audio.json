@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-06-30T12:14:01.268Z",
+  "generatedAt": "2026-06-30T12:20:04.603Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -226,6 +226,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/yun-hai-zhi-lian-legacy-zh-Hans.mp3",
       "bytes": 1537389,
       "sizeLabel": "1.5 MB"
+    },
+    {
+      "name": "yun-hai-zhi-lian-main-zh-Hans-20260630.mp3",
+      "title": "Yun Hai Zhi Lian Main Zh Hans 20260630",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/yun-hai-zhi-lian-main-zh-Hans-20260630.mp3",
+      "bytes": 3841297,
+      "sizeLabel": "3.7 MB"
     },
     {
       "name": "yun-hai-zhi-lian-zh-Hans.mp3",
