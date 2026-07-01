@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-01T07:31:15.746Z",
+  "generatedAt": "2026-07-01T09:58:12.080Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -172,6 +172,13 @@
       "sizeLabel": "361 KB"
     },
     {
+      "name": "shu-dao-nan-original-text-dr-draft-zh-Hans-dr-20260701.mp3",
+      "title": "Shu Dao Nan Original Text Dr Draft Zh Hans Dr 20260701",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/shu-dao-nan-original-text-dr-draft-zh-Hans-dr-20260701.mp3",
+      "bytes": 3806607,
+      "sizeLabel": "3.6 MB"
+    },
+    {
       "name": "shu-dao-nan-qing-tian-lu-zh-Hans-ace-20260701.mp3",
       "title": "Shu Dao Nan Qing Tian Lu Zh Hans Ace 20260701",
       "url": "https://lazyingart.github.io/MusiaSongs/audio/shu-dao-nan-qing-tian-lu-zh-Hans-ace-20260701.mp3",
@@ -268,6 +275,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/xiao-xiao-zhu-zh-Hans.mp3",
       "bytes": 2209581,
       "sizeLabel": "2.1 MB"
+    },
+    {
+      "name": "xing-lu-nan-original-poem-draft-zh-Hans-dr-20260701.mp3",
+      "title": "Xing Lu Nan Original Poem Draft Zh Hans Dr 20260701",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/xing-lu-nan-original-poem-draft-zh-Hans-dr-20260701.mp3",
+      "bytes": 3806607,
+      "sizeLabel": "3.6 MB"
     },
     {
       "name": "yue-ren-ge-original-poem-zh-Hans-ace-20260701.mp3",
