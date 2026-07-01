@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-01T01:13:50.492Z",
+  "generatedAt": "2026-07-01T01:32:18.312Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -163,6 +163,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-trilingual-melody-guide.mp3",
       "bytes": 369645,
       "sizeLabel": "361 KB"
+    },
+    {
+      "name": "shu-dao-nan-qing-tian-lu-zh-Hans-ace-20260701.mp3",
+      "title": "Shu Dao Nan Qing Tian Lu Zh Hans Ace 20260701",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/shu-dao-nan-qing-tian-lu-zh-Hans-ace-20260701.mp3",
+      "bytes": 3382125,
+      "sizeLabel": "3.2 MB"
     },
     {
       "name": "shu-dao-nan-zh-Hans-ace-20260701.mp3",
