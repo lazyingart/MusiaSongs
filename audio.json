@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-01T00:29:19.362Z",
+  "generatedAt": "2026-07-01T00:51:04.984Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -212,6 +212,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/xia-ke-xing-original-poem-zh-Hans-ace-20260701.mp3",
       "bytes": 4321965,
       "sizeLabel": "4.1 MB"
+    },
+    {
+      "name": "xia-ke-xing-original-poem-zh-Hans-ace-rerun-20260701.mp3",
+      "title": "Xia Ke Xing Original Poem Zh Hans Ace Rerun 20260701",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/xia-ke-xing-original-poem-zh-Hans-ace-rerun-20260701.mp3",
+      "bytes": 4162605,
+      "sizeLabel": "4.0 MB"
     },
     {
       "name": "xia-ke-xing-zh-Hans-ace-20260630.mp3",
