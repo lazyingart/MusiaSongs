@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-01T00:04:29.706Z",
+  "generatedAt": "2026-07-01T00:29:19.362Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -51,6 +51,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/mars-red-sky-zh.mp3",
       "bytes": 1969389,
       "sizeLabel": "1.9 MB"
+    },
+    {
+      "name": "meng-you-tian-mu-original-poem-zh-Hans-ace-20260701.mp3",
+      "title": "Meng You Tian Mu Original Poem Zh Hans Ace 20260701",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/meng-you-tian-mu-original-poem-zh-Hans-ace-20260701.mp3",
+      "bytes": 11842605,
+      "sizeLabel": "11.3 MB"
     },
     {
       "name": "meng-you-tian-mu-zh-Hans-ace-20260701.mp3",
