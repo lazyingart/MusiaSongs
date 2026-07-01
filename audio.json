@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-01T03:10:15.671Z",
+  "generatedAt": "2026-07-01T07:31:15.746Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -23,6 +23,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/aya-chan-hikari-ame-zh-Hans.mp3",
       "bytes": 2178093,
       "sizeLabel": "2.1 MB"
+    },
+    {
+      "name": "kagirohi-to-hana-ja-ace-20260701.mp3",
+      "title": "Kagirohi To Hana Ja Ace 20260701",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/kagirohi-to-hana-ja-ace-20260701.mp3",
+      "bytes": 3042285,
+      "sizeLabel": "2.9 MB"
     },
     {
       "name": "mars-red-sky-en.mp3",
