@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-01T09:58:12.080Z",
+  "generatedAt": "2026-07-02T16:23:12.199Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -191,6 +191,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/shu-dao-nan-zh-Hans-ace-20260701.mp3",
       "bytes": 4002285,
       "sizeLabel": "3.8 MB"
+    },
+    {
+      "name": "star-bucks-en-ace-turbo-seed-743103-20260703.mp3",
+      "title": "Star Bucks En Ace Turbo Seed 743103 20260703",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/star-bucks-en-ace-turbo-seed-743103-20260703.mp3",
+      "bytes": 2241837,
+      "sizeLabel": "2.1 MB"
     },
     {
       "name": "take-care-of-yourself-en.mp3",
