@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-03T14:20:22.641Z",
+  "generatedAt": "2026-07-04T13:27:59.684Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -37,6 +37,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/kagirohi-to-hana-ja-ace-20260701.mp3",
       "bytes": 3042285,
       "sizeLabel": "2.9 MB"
+    },
+    {
+      "name": "liang-zhou-ci-double-original-poem-zh-Hans-ace-xl-turbo-seed747323-20260704.mp3",
+      "title": "Liang Zhou Ci Double Original Poem Zh Hans Ace Xl Turbo Seed747323 20260704",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/liang-zhou-ci-double-original-poem-zh-Hans-ace-xl-turbo-seed747323-20260704.mp3",
+      "bytes": 3841965,
+      "sizeLabel": "3.7 MB"
     },
     {
       "name": "mars-red-sky-en.mp3",
