@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-04T13:27:59.684Z",
+  "generatedAt": "2026-07-05T13:40:38.568Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -184,6 +184,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-trilingual-melody-guide.mp3",
       "bytes": 369645,
       "sizeLabel": "361 KB"
+    },
+    {
+      "name": "sha-sha-zh-Hans-ace-xl-turbo-seed750531-20260705.mp3",
+      "title": "Sha Sha Zh Hans Ace Xl Turbo Seed750531 20260705",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/sha-sha-zh-Hans-ace-xl-turbo-seed750531-20260705.mp3",
+      "bytes": 2113389,
+      "sizeLabel": "2.0 MB"
     },
     {
       "name": "shu-dao-nan-original-text-dr-draft-zh-Hans-dr-20260701.mp3",
