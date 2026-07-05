@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-05T13:40:38.568Z",
+  "generatedAt": "2026-07-05T17:18:42.910Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -261,6 +261,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/take-care-of-yourself-zh-Hans.mp3",
       "bytes": 1285252,
       "sizeLabel": "1.2 MB"
+    },
+    {
+      "name": "wei-ji-fen-zh-Hans-ace-xl-turbo-seed760622-20260706.mp3",
+      "title": "Wei Ji Fen Zh Hans Ace Xl Turbo Seed760622 20260706",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/wei-ji-fen-zh-Hans-ace-xl-turbo-seed760622-20260706.mp3",
+      "bytes": 3282285,
+      "sizeLabel": "3.1 MB"
     },
     {
       "name": "xia-ke-xing-original-poem-zh-Hans-ace-20260701.mp3",
