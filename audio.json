@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-06T14:24:44.011Z",
+  "generatedAt": "2026-07-06T15:01:25.031Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -72,6 +72,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/mars-red-sky-zh.mp3",
       "bytes": 1969389,
       "sizeLabel": "1.9 MB"
+    },
+    {
+      "name": "meng-you-tian-mu-kai-xin-yan-original-lines-zh-Hans-ace-turbo-seed746204-20260706.mp3",
+      "title": "Meng You Tian Mu Kai Xin Yan Original Lines Zh Hans Ace Turbo Seed746204 20260706",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/meng-you-tian-mu-kai-xin-yan-original-lines-zh-Hans-ace-turbo-seed746204-20260706.mp3",
+      "bytes": 2869101,
+      "sizeLabel": "2.7 MB"
     },
     {
       "name": "meng-you-tian-mu-original-poem-zh-Hans-ace-20260701.mp3",
