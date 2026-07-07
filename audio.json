@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-06T15:57:42.650Z",
+  "generatedAt": "2026-07-07T13:55:40.740Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -282,6 +282,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/take-care-of-yourself-zh-Hans.mp3",
       "bytes": 1285252,
       "sizeLabel": "1.2 MB"
+    },
+    {
+      "name": "the-babiest-mixed-ace-xl-turbo-seed770711-20260707.mp3",
+      "title": "The Babiest Mixed Ace Xl Turbo Seed770711 20260707",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/the-babiest-mixed-ace-xl-turbo-seed770711-20260707.mp3",
+      "bytes": 2305581,
+      "sizeLabel": "2.2 MB"
     },
     {
       "name": "wei-ji-fen-zh-Hans-ace-xl-turbo-seed760622-20260706.mp3",
