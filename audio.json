@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-07T13:55:40.740Z",
+  "generatedAt": "2026-07-08T15:45:36.080Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -44,6 +44,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/kagirohi-to-hana-ja-ace-20260701.mp3",
       "bytes": 3042285,
       "sizeLabel": "2.9 MB"
+    },
+    {
+      "name": "ku-chao-qing-heng-mixed-ace-xl-turbo-seed780824-20260708.mp3",
+      "title": "Ku Chao Qing Heng Mixed Ace Xl Turbo Seed780824 20260708",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/ku-chao-qing-heng-mixed-ace-xl-turbo-seed780824-20260708.mp3",
+      "bytes": 1657557,
+      "sizeLabel": "1.6 MB"
     },
     {
       "name": "liang-zhou-ci-double-original-poem-zh-Hans-ace-xl-turbo-seed747323-20260704.mp3",
