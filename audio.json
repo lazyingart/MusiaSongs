@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-09T05:21:09.658Z",
+  "generatedAt": "2026-07-09T10:04:18.437Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -37,6 +37,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/chi-le-ge-original-poem-zh-Hans-ace-xl-turbo-seed748143-20260706.mp3",
       "bytes": 1729197,
       "sizeLabel": "1.6 MB"
+    },
+    {
+      "name": "gong-bai-tou-snow-we-share-ace-xl-turbo-seed790972-20260709.mp3",
+      "title": "Gong Bai Tou Snow We Share Ace Xl Turbo Seed790972 20260709",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/gong-bai-tou-snow-we-share-ace-xl-turbo-seed790972-20260709.mp3",
+      "bytes": 3282285,
+      "sizeLabel": "3.1 MB"
     },
     {
       "name": "gong-yin-chang-jiang-shui-mixed-ace-xl-turbo-seed790904-20260709.mp3",
