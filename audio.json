@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-08T15:45:36.080Z",
+  "generatedAt": "2026-07-09T05:21:09.658Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -37,6 +37,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/chi-le-ge-original-poem-zh-Hans-ace-xl-turbo-seed748143-20260706.mp3",
       "bytes": 1729197,
       "sizeLabel": "1.6 MB"
+    },
+    {
+      "name": "gong-yin-chang-jiang-shui-mixed-ace-xl-turbo-seed790904-20260709.mp3",
+      "title": "Gong Yin Chang Jiang Shui Mixed Ace Xl Turbo Seed790904 20260709",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/gong-yin-chang-jiang-shui-mixed-ace-xl-turbo-seed790904-20260709.mp3",
+      "bytes": 2962605,
+      "sizeLabel": "2.8 MB"
     },
     {
       "name": "kagirohi-to-hana-ja-ace-20260701.mp3",
