@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-10T13:45:25.348Z",
+  "generatedAt": "2026-07-11T03:11:49.285Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -135,6 +135,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/meng-you-tian-mu-zh-Hans-ace-20260701.mp3",
       "bytes": 4482285,
       "sizeLabel": "4.3 MB"
+    },
+    {
+      "name": "one-boat-moonlight-one-lamp-ace-xl-turbo-seed780826-20260711.mp3",
+      "title": "One Boat Moonlight One Lamp Ace Xl Turbo Seed780826 20260711",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/one-boat-moonlight-one-lamp-ace-xl-turbo-seed780826-20260711.mp3",
+      "bytes": 1660821,
+      "sizeLabel": "1.6 MB"
     },
     {
       "name": "one-sky-three-lights-mixed.mp3",
