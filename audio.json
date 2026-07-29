@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-07-29T12:32:13.633Z",
+  "generatedAt": "2026-07-29T13:43:34.249Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -86,6 +86,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/liang-zhou-ci-double-original-poem-zh-Hans-ace-xl-turbo-seed747323-20260704.mp3",
       "bytes": 3841965,
       "sizeLabel": "3.7 MB"
+    },
+    {
+      "name": "luoshenfu-original-excerpt-zh-Hans-ace-xl-turbo-seed729403-20260729.mp3",
+      "title": "Luoshenfu Original Excerpt Zh Hans Ace Xl Turbo Seed729403 20260729",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/luoshenfu-original-excerpt-zh-Hans-ace-xl-turbo-seed729403-20260729.mp3",
+      "bytes": 3940797,
+      "sizeLabel": "3.8 MB"
     },
     {
       "name": "luoshui-zhaoying-preview-lyric-first-seed812401-20260729.mp3",
