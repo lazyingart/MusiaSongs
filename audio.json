@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-08-01T14:45:03.743Z",
+  "generatedAt": "2026-09-13T22:32:45.757Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -30,6 +30,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/aya-chan-hikari-ame-zh-Hans.mp3",
       "bytes": 2178093,
       "sizeLabel": "2.1 MB"
+    },
+    {
+      "name": "ban-qu-chang-an-zh-minimax-music3-seed91302-20260914.mp3",
+      "title": "Ban Qu Chang An Zh Minimax Music3 Seed91302 20260914",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/ban-qu-chang-an-zh-minimax-music3-seed91302-20260914.mp3",
+      "bytes": 8983497,
+      "sizeLabel": "8.6 MB"
     },
     {
       "name": "best-am-i-mixed-ace-xl-turbo-seed812401-20260712.mp3",
