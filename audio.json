@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-09-13T22:32:45.757Z",
+  "generatedAt": "2026-09-13T23:21:04.698Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -30,6 +30,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/aya-chan-hikari-ame-zh-Hans.mp3",
       "bytes": 2178093,
       "sizeLabel": "2.1 MB"
+    },
+    {
+      "name": "ban-qu-chang-an-ace-changfeng-zh-seed914203-20260914.mp3",
+      "title": "Ban Qu Chang An Ace Changfeng Zh Seed914203 20260914",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/ban-qu-chang-an-ace-changfeng-zh-seed914203-20260914.mp3",
+      "bytes": 5745659,
+      "sizeLabel": "5.5 MB"
     },
     {
       "name": "ban-qu-chang-an-zh-minimax-music3-seed91302-20260914.mp3",
