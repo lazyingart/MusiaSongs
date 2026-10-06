@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-09-13T23:21:04.698Z",
+  "generatedAt": "2026-10-06T09:52:11.746Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -9,6 +9,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/animal-no-di-liu-gan-mixed-ace-turbo-seed-747304-20260703.mp3",
       "bytes": 4321965,
       "sizeLabel": "4.1 MB"
+    },
+    {
+      "name": "aya-canada-beyond-the-maples-ja-seed100604-20261006.mp3",
+      "title": "Aya Canada Beyond The Maples Ja Seed100604 20261006",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/aya-canada-beyond-the-maples-ja-seed100604-20261006.mp3",
+      "bytes": 6242033,
+      "sizeLabel": "6.0 MB"
     },
     {
       "name": "aya-chan-hikari-ame-en.mp3",
