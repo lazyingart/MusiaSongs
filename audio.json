@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-10-06T09:52:11.746Z",
+  "generatedAt": "2026-10-09T13:23:18.404Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -37,6 +37,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/aya-chan-hikari-ame-zh-Hans.mp3",
       "bytes": 2178093,
       "sizeLabel": "2.1 MB"
+    },
+    {
+      "name": "aya-home-on-the-breeze-ja-seed100912-20261009.mp3",
+      "title": "Aya Home On The Breeze Ja Seed100912 20261009",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/aya-home-on-the-breeze-ja-seed100912-20261009.mp3",
+      "bytes": 7362363,
+      "sizeLabel": "7.0 MB"
     },
     {
       "name": "ban-qu-chang-an-ace-changfeng-zh-seed914203-20260914.mp3",
