@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-10-09T13:23:18.404Z",
+  "generatedAt": "2026-10-15T13:47:07.898Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -9,6 +9,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/animal-no-di-liu-gan-mixed-ace-turbo-seed-747304-20260703.mp3",
       "bytes": 4321965,
       "sizeLabel": "4.1 MB"
+    },
+    {
+      "name": "aya-brave-in-paris-ja-seed101513-20261015.mp3",
+      "title": "Aya Brave In Paris Ja Seed101513 20261015",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/aya-brave-in-paris-ja-seed101513-20261015.mp3",
+      "bytes": 7522682,
+      "sizeLabel": "7.2 MB"
     },
     {
       "name": "aya-canada-beyond-the-maples-ja-seed100604-20261006.mp3",
