@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-10-15T13:47:07.898Z",
+  "generatedAt": "2026-10-23T09:09:06.309Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -310,6 +310,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/rain-day-trilingual-melody-guide.mp3",
       "bytes": 369645,
       "sizeLabel": "361 KB"
+    },
+    {
+      "name": "sensei-mo-ichinensei-ja-102314-20261023.mp3",
+      "title": "Sensei Mo Ichinensei Ja 102314 20261023",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/sensei-mo-ichinensei-ja-102314-20261023.mp3",
+      "bytes": 9602042,
+      "sizeLabel": "9.2 MB"
     },
     {
       "name": "sha-sha-zh-Hans-ace-xl-turbo-seed750531-20260705.mp3",
