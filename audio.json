@@ -1,6 +1,6 @@
 {
   "schema": "art.lazying.musia-songs.v1",
-  "generatedAt": "2026-10-23T09:09:06.309Z",
+  "generatedAt": "2026-11-11T12:36:47.215Z",
   "baseUrl": "https://lazyingart.github.io/MusiaSongs/audio/",
   "tracks": [
     {
@@ -100,6 +100,13 @@
       "url": "https://lazyingart.github.io/MusiaSongs/audio/gong-yin-chang-jiang-shui-mixed-ace-xl-turbo-seed790904-20260709.mp3",
       "bytes": 2962605,
       "sizeLabel": "2.8 MB"
+    },
+    {
+      "name": "im-a-spy-en-20261111.mp3",
+      "title": "Im A Spy En 20261111",
+      "url": "https://lazyingart.github.io/MusiaSongs/audio/im-a-spy-en-20261111.mp3",
+      "bytes": 7362339,
+      "sizeLabel": "7.0 MB"
     },
     {
       "name": "kagirohi-to-hana-ja-ace-20260701.mp3",
